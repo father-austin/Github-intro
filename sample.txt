@@ -1,1 +1,3 @@
-this is an introdution to working with git add commit push sample file
+This is an introdution to working with git add commit push sample file.
+
+this was edited online
